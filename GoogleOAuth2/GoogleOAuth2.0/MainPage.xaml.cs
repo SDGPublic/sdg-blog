@@ -160,7 +160,7 @@ namespace GoogleOAuth2._0
 
                         var serializer = new DataContractJsonSerializer(typeof(T));
 
-                        using (var tempStream = new MemoryStream(Encoding.Unicode.GetBytes(json)))
+                        using (var tempStream = new MemoryStream(Encoding.UTF8.GetBytes(json)))
                         {
                             return (T)serializer.ReadObject(tempStream);
                         }
