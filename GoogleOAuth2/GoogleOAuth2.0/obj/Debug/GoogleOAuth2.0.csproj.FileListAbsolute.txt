@@ -1,0 +1,76 @@
+d:\users\rogue\documents\visual studio 2012\Projects\GoogleOAuth2.0\GoogleOAuth2.0\Bin\Debug\Assets\ApplicationIcon.png
+d:\users\rogue\documents\visual studio 2012\Projects\GoogleOAuth2.0\GoogleOAuth2.0\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+d:\users\rogue\documents\visual studio 2012\Projects\GoogleOAuth2.0\GoogleOAuth2.0\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+d:\users\rogue\documents\visual studio 2012\Projects\GoogleOAuth2.0\GoogleOAuth2.0\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+d:\users\rogue\documents\visual studio 2012\Projects\GoogleOAuth2.0\GoogleOAuth2.0\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+d:\users\rogue\documents\visual studio 2012\Projects\GoogleOAuth2.0\GoogleOAuth2.0\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+d:\users\rogue\documents\visual studio 2012\Projects\GoogleOAuth2.0\GoogleOAuth2.0\Bin\Debug\GoogleOAuth2.0.dll
+d:\users\rogue\documents\visual studio 2012\Projects\GoogleOAuth2.0\GoogleOAuth2.0\Bin\Debug\GoogleOAuth2.0.pdb
+d:\users\rogue\documents\visual studio 2012\Projects\GoogleOAuth2.0\GoogleOAuth2.0\Bin\Debug\AppManifest.xaml
+d:\users\rogue\documents\visual studio 2012\Projects\GoogleOAuth2.0\GoogleOAuth2.0\Bin\Debug\Properties\WMAppManifest.xml
+d:\users\rogue\documents\visual studio 2012\Projects\GoogleOAuth2.0\GoogleOAuth2.0\Bin\Debug\GoogleOAuth2._0_Debug_AnyCPU.xap
+d:\users\rogue\documents\visual studio 2012\Projects\GoogleOAuth2.0\GoogleOAuth2.0\obj\Debug\App.g.cs
+d:\users\rogue\documents\visual studio 2012\Projects\GoogleOAuth2.0\GoogleOAuth2.0\obj\Debug\MainPage.g.cs
+d:\users\rogue\documents\visual studio 2012\Projects\GoogleOAuth2.0\GoogleOAuth2.0\obj\Debug\GoogleOAuth2.0.g.resources
+d:\users\rogue\documents\visual studio 2012\Projects\GoogleOAuth2.0\GoogleOAuth2.0\obj\Debug\GoogleOAuth2._0.Resources.AppResources.resources
+d:\users\rogue\documents\visual studio 2012\Projects\GoogleOAuth2.0\GoogleOAuth2.0\obj\Debug\GoogleOAuth2.0.csproj.GenerateResource.Cache
+d:\users\rogue\documents\visual studio 2012\Projects\GoogleOAuth2.0\GoogleOAuth2.0\obj\Debug\GoogleOAuth2.0.dll
+d:\users\rogue\documents\visual studio 2012\Projects\GoogleOAuth2.0\GoogleOAuth2.0\obj\Debug\GoogleOAuth2.0.pdb
+d:\users\rogue\documents\visual studio 2012\Projects\GoogleOAuth2.0\GoogleOAuth2.0\obj\Debug\XapCacheFile.xml
+C:\Users\Bryan\SkyDrive\Projects\GoogleOAuth2.0\GoogleOAuth2.0\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\Bryan\SkyDrive\Projects\GoogleOAuth2.0\GoogleOAuth2.0\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\Bryan\SkyDrive\Projects\GoogleOAuth2.0\GoogleOAuth2.0\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\Bryan\SkyDrive\Projects\GoogleOAuth2.0\GoogleOAuth2.0\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\Bryan\SkyDrive\Projects\GoogleOAuth2.0\GoogleOAuth2.0\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\Bryan\SkyDrive\Projects\GoogleOAuth2.0\GoogleOAuth2.0\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\Bryan\SkyDrive\Projects\GoogleOAuth2.0\GoogleOAuth2.0\Bin\Debug\GoogleOAuth2.0.dll
+C:\Users\Bryan\SkyDrive\Projects\GoogleOAuth2.0\GoogleOAuth2.0\Bin\Debug\GoogleOAuth2.0.pdb
+C:\Users\Bryan\SkyDrive\Projects\GoogleOAuth2.0\GoogleOAuth2.0\Bin\Debug\AppManifest.xaml
+C:\Users\Bryan\SkyDrive\Projects\GoogleOAuth2.0\GoogleOAuth2.0\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\Bryan\SkyDrive\Projects\GoogleOAuth2.0\GoogleOAuth2.0\Bin\Debug\GoogleOAuth2._0_Debug_AnyCPU.xap
+C:\Users\Bryan\SkyDrive\Projects\GoogleOAuth2.0\GoogleOAuth2.0\obj\Debug\App.g.cs
+C:\Users\Bryan\SkyDrive\Projects\GoogleOAuth2.0\GoogleOAuth2.0\obj\Debug\MainPage.g.cs
+C:\Users\Bryan\SkyDrive\Projects\GoogleOAuth2.0\GoogleOAuth2.0\obj\Debug\GoogleOAuth2.0.g.resources
+C:\Users\Bryan\SkyDrive\Projects\GoogleOAuth2.0\GoogleOAuth2.0\obj\Debug\GoogleOAuth2._0.Resources.AppResources.resources
+C:\Users\Bryan\SkyDrive\Projects\GoogleOAuth2.0\GoogleOAuth2.0\obj\Debug\GoogleOAuth2.0.csproj.GenerateResource.Cache
+C:\Users\Bryan\SkyDrive\Projects\GoogleOAuth2.0\GoogleOAuth2.0\obj\Debug\GoogleOAuth2.0.dll
+C:\Users\Bryan\SkyDrive\Projects\GoogleOAuth2.0\GoogleOAuth2.0\obj\Debug\GoogleOAuth2.0.pdb
+C:\Users\Bryan\SkyDrive\Projects\GoogleOAuth2.0\GoogleOAuth2.0\obj\Debug\XapCacheFile.xml
+C:\Users\Rogue\SkyDrive\Projects\GoogleOAuth2.0\GoogleOAuth2.0\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\Rogue\SkyDrive\Projects\GoogleOAuth2.0\GoogleOAuth2.0\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\Rogue\SkyDrive\Projects\GoogleOAuth2.0\GoogleOAuth2.0\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\Rogue\SkyDrive\Projects\GoogleOAuth2.0\GoogleOAuth2.0\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\Rogue\SkyDrive\Projects\GoogleOAuth2.0\GoogleOAuth2.0\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\Rogue\SkyDrive\Projects\GoogleOAuth2.0\GoogleOAuth2.0\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\Rogue\SkyDrive\Projects\GoogleOAuth2.0\GoogleOAuth2.0\Bin\Debug\GoogleOAuth2.0.dll
+C:\Users\Rogue\SkyDrive\Projects\GoogleOAuth2.0\GoogleOAuth2.0\Bin\Debug\GoogleOAuth2.0.pdb
+C:\Users\Rogue\SkyDrive\Projects\GoogleOAuth2.0\GoogleOAuth2.0\Bin\Debug\AppManifest.xaml
+C:\Users\Rogue\SkyDrive\Projects\GoogleOAuth2.0\GoogleOAuth2.0\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\Rogue\SkyDrive\Projects\GoogleOAuth2.0\GoogleOAuth2.0\Bin\Debug\GoogleOAuth2._0_Debug_AnyCPU.xap
+C:\Users\Rogue\SkyDrive\Projects\GoogleOAuth2.0\GoogleOAuth2.0\obj\Debug\App.g.cs
+C:\Users\Rogue\SkyDrive\Projects\GoogleOAuth2.0\GoogleOAuth2.0\obj\Debug\MainPage.g.cs
+C:\Users\Rogue\SkyDrive\Projects\GoogleOAuth2.0\GoogleOAuth2.0\obj\Debug\GoogleOAuth2.0.g.resources
+C:\Users\Rogue\SkyDrive\Projects\GoogleOAuth2.0\GoogleOAuth2.0\obj\Debug\GoogleOAuth2._0.Resources.AppResources.resources
+C:\Users\Rogue\SkyDrive\Projects\GoogleOAuth2.0\GoogleOAuth2.0\obj\Debug\GoogleOAuth2.0.csproj.GenerateResource.Cache
+C:\Users\Rogue\SkyDrive\Projects\GoogleOAuth2.0\GoogleOAuth2.0\obj\Debug\GoogleOAuth2.0.dll
+C:\Users\Rogue\SkyDrive\Projects\GoogleOAuth2.0\GoogleOAuth2.0\obj\Debug\GoogleOAuth2.0.pdb
+C:\Users\Rogue\SkyDrive\Projects\GoogleOAuth2.0\GoogleOAuth2.0\obj\Debug\XapCacheFile.xml
+C:\Users\Rogue\Desktop\New folder\GoogleOAuth2.0\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\Rogue\Desktop\New folder\GoogleOAuth2.0\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\Rogue\Desktop\New folder\GoogleOAuth2.0\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\Rogue\Desktop\New folder\GoogleOAuth2.0\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\Rogue\Desktop\New folder\GoogleOAuth2.0\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\Rogue\Desktop\New folder\GoogleOAuth2.0\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\Rogue\Desktop\New folder\GoogleOAuth2.0\Bin\Debug\GoogleOAuth2.0.dll
+C:\Users\Rogue\Desktop\New folder\GoogleOAuth2.0\Bin\Debug\GoogleOAuth2.0.pdb
+C:\Users\Rogue\Desktop\New folder\GoogleOAuth2.0\Bin\Debug\AppManifest.xaml
+C:\Users\Rogue\Desktop\New folder\GoogleOAuth2.0\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\Rogue\Desktop\New folder\GoogleOAuth2.0\Bin\Debug\GoogleOAuth2._0_Debug_AnyCPU.xap
+C:\Users\Rogue\Desktop\New folder\GoogleOAuth2.0\obj\Debug\App.g.cs
+C:\Users\Rogue\Desktop\New folder\GoogleOAuth2.0\obj\Debug\MainPage.g.cs
+C:\Users\Rogue\Desktop\New folder\GoogleOAuth2.0\obj\Debug\GoogleOAuth2.0.g.resources
+C:\Users\Rogue\Desktop\New folder\GoogleOAuth2.0\obj\Debug\GoogleOAuth2._0.Resources.AppResources.resources
+C:\Users\Rogue\Desktop\New folder\GoogleOAuth2.0\obj\Debug\GoogleOAuth2.0.csproj.GenerateResource.Cache
+C:\Users\Rogue\Desktop\New folder\GoogleOAuth2.0\obj\Debug\GoogleOAuth2.0.dll
+C:\Users\Rogue\Desktop\New folder\GoogleOAuth2.0\obj\Debug\GoogleOAuth2.0.pdb
+C:\Users\Rogue\Desktop\New folder\GoogleOAuth2.0\obj\Debug\XapCacheFile.xml
